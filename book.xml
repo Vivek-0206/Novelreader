@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+  <book category="biography">
+    <id>1</id>
+    <title lang="en">Alan Turing: The Enigma</title>
+    <author>Andrew Hodges</author>
+    <year>1983</year>
+    <page>587</page>
+    <info>Alan Turing was the mathematician whose cipher-cracking transformed the Second World War. Taken on by British Intelligence in 1938, as a shy young Cambridge don, he combined brilliant logic with a flair for engineering. In 1940 his machines were breaking the Enigma-enciphered messages of Nazi Germany’s air force. He then headed the penetration of the super-secure U-boat communications. 
+          But his vision went far beyond this achievement. Before the war he had invented the concept of the universal machine, and in 1945 he turned this into the first design for a digital computer.
+          Turing's far-sighted plans for the digital era forged ahead into a vision for Artificial Intelligence. However, in 1952 his homosexuality rendered him a criminal and he was subjected to humiliating treatment. In 1954, aged 41, Alan Turing took his own life.
+    </info>
+  </book>
+  <book category="horror">
+    <id>2</id>
+    <title lang="en">stephen king IT</title>
+    <author>stephen king</author>
+    <year>1986</year>
+    <page>742</page>
+    <info> It is a group of children who see - and feel - what makes Derry so horribly different. In the storm drains, in the sewers, IT lurks, taking on the shape of every nightmare, each one's deepest dread. Sometimes is appears as an evil clown named Pennywise and sometimes IT reaches up, seizing, tearing, killing . . .
+          Time passes and the children grow up, move away and forget. Until they are called back, once more to confront IT as IT stirs and coils in the sullen depths of their memories, emerging again to make their past nightmares a terrible present reality
+</info>
+  </book>
+  <book category="horror">
+    <id>3</id>
+    <title lang="en">the exorcist</title>
+    <author>William Peter Blatty</author>
+    <year>1971</year>
+    <page>403</page>
+    <info>The Exorcist, one of the most controversial novels ever written, went on to become a literary phenomenon: It spent fifty-seven weeks on the New York Times bestseller list, seventeen consecutively at number one. Inspired by a true story of a child's demonic possession in the 1940s, William Peter Blatty created an iconic novel that focuses on Regan, the eleven-year-old daughter of a movie actress residing in Washington, D.C. A small group of overwhelmed yet determined individuals must rescue Regan from her unspeakable fate, and the drama that ensues is gripping and unfailingly terrifying. Two years after its publication, The Exorcist was, of course, turned into a wildly popular motion picture, garnering ten Academy Award nominations. On opening day of the film, lines of the novel's fans stretched around city blocks. In Chicago, frustrated moviegoers used a battering ram to gain entry through the double side doors of a theater. In Kansas City, police used tear gas to disperse an impatient crowd who tried to force their way into a cinema. The three major television networks carried footage of these events; CBS's Walter Cronkite devoted almost ten minutes to the story. The Exorcist was, and is, more than just a novel and a film: it is a literary landmark. Purposefully raw and profane, The Exorcist still has the extraordinary ability to disturb readers and cause them to forget that it is "just a story." Newly polished and added to by it author and published here in this beautiful fortieth anniversary edition, it remains an unforgettable reading experience and will continue to shock and frighten a new generation of readers.</info>
+  </book>
+  <book category="mysteries">
+    <id>4</id>
+    <title lang="en">The Sign of the Four</title>
+    <author>Arthur Conan Doyle</author>
+    <year>1890</year>
+    <page>53</page>
+    <info>THE SIGN OF FOUR is the second novel featuring Sherlock Holmes written by Sir Arthur Conan Doyle. Doyle wrote four novels and 56 stories starring the fictional detective. The story is set in 1888. The SIGN OF THE FOUR has a complex plot involving service in East India Company, India, the Indian Rebellion of 1857, a stolen treasure, and a secret pact among four convicts ("the Four" of the title) and two corrupt prison guards. It presents the detective's drug habit and humanizes him in a way that had not been done in the preceding novel, A STUDY IN SCARLET (1887).
+          In 1888 a client, Mary Morstan, comes with two puzzles for Holmes. The first is the disappearance of her father, British Indian Army Captain Arthur Morstan, in December 1878. The second puzzle is that she has received six pearls in the mail from an anonymous benefactor, one per year since 1882 after answering an anonymous newspaper query inquiring for her. With the last pearl she received a letter remarking that she has been a wronged woman and asking for a meeting</info>
+  </book>
+  <book category="mysteries">
+    <id>5</id>
+    <title lang="en">Girl in Room 105</title>
+    <author>Chetan Bhagat</author>
+    <year>2018</year>
+    <page>304</page>
+    <info>Hi, I’m Keshav, and my life is screwed. I hate my job and my girlfriend left me. Ah, the beautiful Zara. Zara is from Kashmir. She is a Muslim. And did I tell you my family is a bit, well, traditional? Anyway, leave that. 
+          Zara and I broke up four years ago. She moved on in life. I didn’t. I drank every night to forget her. I called, messaged, and stalked her on social media. She just ignored me. 
+          However, that night, on the eve of her birthday, Zara messaged me. She called me over, like old times, to her hostel room 105. I shouldn’t have gone, but I did… and my life changed forever. 
+          This is not a love story. It is an unlove story
+    </info>
+  </book>
+  <book category="mysteries">
+    <id>6</id>
+    <title lang="en">TheDaVinciCode</title>
+    <author>Dan Brown</author>
+    <year>2000</year>
+    <page>383</page>
+    <info>Symbologist Robert Langdon travels from Paris to London to discover the truth behind a mysterious and bizarre murder. Later, he learns about a religious mystery protected by a secret society.</info>
+  </book>
+  <book category="romance">
+    <id>7</id>
+    <title lang="en">Half Girlfriend</title>
+    <author>Chetan Bhagat</author>
+    <year>2014</year>
+    <page>285</page>
+    <info>Madhav Jha, a student from Bihar, takes admission in a Delhi college and falls in love with Riya Somani. He coaxes her to be his girlfriend, but she is not interested in him romantically.</info>
+  </book>
+  <book category="thrillers">
+    <id>8</id>
+    <title lang="en">shutter island</title>
+    <author>Dennis Lehane</author>
+    <year>2003</year>
+    <page>380</page>
+    <info>Teddy Daniels and Chuck Aule, two US marshals, are sent to an asylum on a remote island in order to investigate the disappearance of a patient, where Teddy uncovers a shocking truth about the place.</info>
+  </book>
+  <book category="dc">
+    <id>9</id>
+    <title lang="en">Batman: The Adventures Continue</title>
+    <author>DC COMICS</author>
+    <year>2020</year>
+    <page>23</page>
+    <info>From the visionary producers of Batman: The Animated Series comes all-new stories in this seminal animated world. In this opening chapter, S.T.A.R. Labs in Gotham City is attacked by a giant robot that steals an entire room from the laboratory. Who’s controlling the robot? How will Batman stop the mechanized menace? And what does it all have to do with Lex Luthor’s sudden appearance in Gotham.</info>
+  </book>
+  <book category="dc">
+    <id>10</id>
+    <title lang="en">Supergirl</title>
+    <author>DC COMICS</author>
+    <year>2020</year>
+    <page>23</page>
+    <info>Supergirl is out of control! Having fully succumbed to the Batman Who Laughs' deadly infection, she has left her boundaries behind and is flexing her power to the world. ... The consequences of the Dark Multiverse infection could change Supergirl forever… and not for the better!</info>
+  </book>
+  <book category="marvel">
+    <id>11</id>
+    <title lang="en">Marvel's Avengers: Black Widow</title>
+    <author>MARVEL COMICS</author>
+    <year>2020</year>
+    <page>22</page>
+    <info>THE SUPER SPY STARS IN THE FINAL ADVENTURE BEFORE THE LAUNCH OF MARVEL’S AVENGERS! Former Russian spy Natasha Romanoff has joined SHIELD, but when a spectre from her past resurfaces, where do her loyalties really lie? And what is the source of her deadly feud with the villainous TASKMASTER? Solve the mystery in this adventure leading up to the upcoming MARVEL’S AVENGERS video game as we explore a key episode from the dramatic saga of the woman called BLACK WIDOW!</info>
+  </book>
+  <book category="marvel">
+    <id>12</id>
+    <title lang="en">Punisher: Soviet</title>
+    <author>MARVEL COMICS</author>
+    <year>2019</year>
+    <page>23</page>
+    <info>The soul-chilling end of PUNISHER: SOVIET is here</info>
+  </book>
+  <book category="marvel">
+    <id>13</id>
+    <title lang="en">X-Men/Fantastic Four </title>
+    <author>Dennis Lehane</author>
+    <year>2020</year>
+    <page>25</page>
+    <info>A nation of mutants’ lives is at stake while FRANKLIN RICHARDS makes a momentous decision! Will the FANTASTIC FOUR and X-MEN just stand by and allow it to happen?</info>
+  </book>
+</bookstore>
