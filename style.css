@@ -7,22 +7,18 @@ html,body{
 }
 .navbar{
   padding: .8rem;
-   background-color:#000000;
+  background-color:#000000;
 }
 .navbar-nav li{
   padding-right: 20px;
 }
 .nav-link{
   font-size: 1.1em !important;
-  
 }
 .navbar-brand{
   font-size: 1.1em;
   border-radius:50%;
 }
-/*.bg-dark{
-  color:#000000;
-}*/
 .carousel-item{
   text-align: center;
 }
@@ -70,13 +66,9 @@ html,body{
 .fa-monero,.fa-dochub,.fa-meetup{
   font-size:20rem;
 }
-.fun{
-width:100%;
-margin-bottom: 2rem;
-}
-.social a{
+.social{
   font-size: 3rem;
-  padding:3em;
+  padding: 4;
 }
 .fa-facebook{
   color: #3b5998;
@@ -95,14 +87,16 @@ margin-bottom: 2rem;
   color: #d5d5d5;
 }
 footer{
-  background-color: #3f3f3f;
-  color: #d5d5d5;
+  background-color: #000000;
   padding-top: 2rem;
   position: relative;
-  margin-top:auto; 
+  margin-top:auto;
+  color:cadetblue;
 }
 footer a{
-  color:#d5d5d5;
+    color:#d5d5d5;
+    font-size: 3rem;
+    padding: 5px;
 }
 hr.light{
   border-top: 1px solid #d5d5d5;
@@ -167,52 +161,6 @@ figure {
 
 /*new styling*/
 
-.modal-dialog {
-  margin: 20px auto;
-  width: 90%;
-}
-.mid_divider {
-  display:none;
-}
-.modal .gray_text {
-  margin-top: 50px;
-}
-.modal-content {
-  max-height: 400px;
-  overflow: auto;
-  padding: 0 20px 22px;
-}
-.modal-footer {
-  padding:15px 0;
-  justify-content: center;
-}
-.modal-dialog {
-  width: 650px;
-}
-.modal-content {
-  padding: 0 32px 22px;
-}
-.modal-header {
-  padding:15px 0;
-  margin-bottom:15px;
-}
-.modal-body {
-  padding:8px 0;
-}
-.modal .modal-header .close {
-  background: #000000 none repeat scroll 0 0;
-  border-radius: 50%;
-  color: #ffffff;
-  font-size: 17px;
-  height: 41px;
-  line-height: 0px;
-  margin-top: -8px;
-  opacity: 1;
-  text-align: center;
-  text-shadow: none;
-  width: 41px;
-}
-
 .card{
   width: 300px;
   height: 410px;
@@ -265,33 +213,3 @@ figure {
   font-weight: bold;
   color:red;
 }
-
-footer {
-  background-color: #000000;
-
-}
-/*.container-fluid{
-  background-color: #000000;
-  color:white;
-}
-
-.jumbotron{
-  background-color: black;
-}
-/*
-Extra small (xs) devices (portrait phones, less than 576px)
-No media query since this is the default in Bootstrap
-
-Small (sm) devices (landscape phones, 576px and up)
-@media (min-width: 576px) { ... }
-
-Medium (md) devices (tablets, 768px and up)
-@media (min-width: 768px) { ... }
-
-Large (lg) devices (desktops, 992px and up)
-@media (min-width: 992px) { ... }
-
-Extra (xl) large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { ... }
-*/
-/*First page*/
