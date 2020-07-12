@@ -41,10 +41,10 @@ if (isset($_POST['emailsubscribe'])) {
             $mail->Host = "smtp.gmail.com";
             $mail->Port = '465';
             $mail->AddAddress($mailid);
-            $mail->Username ="novelreader.85@gmail.com";
-            $mail->Password ="vivek@262000";
-            $mail->SetFrom('novelreader.85@gmail.com','Novel Reader');
-            $mail->AddReplyTo("novelreader.85@gmail.com","Novel Reader");
+            $mail->Username ="YOUR@EMAIL.COM";
+            $mail->Password ="YOUR PASSWORD";
+            $mail->SetFrom('YOUR@EMAIL.COM','Novel Reader');
+            $mail->AddReplyTo("YOUR@EMAIL.COM","Novel Reader");
             $mail->Subject = $subject;
             $mail->Body = $message;
             $mail->AltBody = $message;
